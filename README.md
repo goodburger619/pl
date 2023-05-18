@@ -140,9 +140,9 @@ Login & Proxy arguments (androidid, email, password, host, port) can be defined 
 If you don't want to use proxy, just comment proxy host and port!
 
     # Login Information
-    email = xxxxxxxxx@gmail.com
-    password = xxxxxxxxx
-    androidid = xxxxxxxxxxxxxxxx
+    email = Goodburger61913@gmail.com
+    password = Verygood!1
+    androidid = checkin
     # security token only needed for "usegcm" option
     securitytoken = xxxxxxxx
     
